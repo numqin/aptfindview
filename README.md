@@ -1,12 +1,3 @@
----
-title: 实现一个简单的APT
-date: 2019-04-12 12:01:59
-tags: 
-- APT
-categories: APT
-
----
-
 如果还不清楚 APT 是什么请先看[这篇文章](https://numqin.github.io/2019/04/12/APT-%E6%98%AF%E4%BB%80%E4%B9%88/#more)，然后跟着这篇文章敲一遍，你大致就可以领悟如何实现一个 APT。
 
 <!--more-->
@@ -421,4 +412,4 @@ public class MainActivity$$Proxy implements IProxy<MainActivity> {
 }
 ```
 
-**至此一个简单的 apt 程序就完成了
+**至此一个简单的 apt 程序就完成了**
